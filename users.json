@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "UserName": "KojiroHyuga",
+        "FirstName": "Hyuga",
+        "LastName": "Kojiro",
+        "Interests": "Pyhton, PHP, Go, Kotlin",
+        "Profile": "http://yazilim.guru"
+    },
+    {
+        "ID": 2,
+        "UserName": "RobertoHongo",
+        "FirstName": "Roberto",
+        "LastName": "Hongo",
+        "Interests": "Pyhton, Go, DevOps",
+        "Profile": "http://yazilim.guru/roberto"
+    },
+    {
+        "ID": 3,
+        "UserName": "TsubasaOzora",
+        "FirstName": "Tsubasa",
+        "LastName": "Ozora",
+        "Interests": "Pyhton, PHP, Go, Kotlin, Java, C#",
+        "Profile": "http://yazilim.guru/tsubasa"
+    }
+]
