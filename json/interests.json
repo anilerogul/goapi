@@ -1,0 +1,58 @@
+[
+    {
+        "ID": 1,
+        "Name": "PHP"
+    },
+    {
+        "ID": 2,
+        "Name": "GO"
+    },
+    {
+        "ID": 3,
+        "Name": "MySQL"
+    },
+    {
+        "ID": 4,
+        "Name": "Pyhton"
+    },
+    {
+        "ID": 5,
+        "Name": "C#"
+    },
+    {
+        "ID": 6,
+        "Name": "Java"
+    },
+    {
+        "ID": 7,
+        "Name": "jQuery"
+    },
+    {
+        "ID": 8,
+        "Name": "Ajax"
+    },
+    {
+        "ID": 9,
+        "Name": "Machine Learning"
+    },
+    {
+        "ID": 10,
+        "Name": "Kotlin"
+    },
+    {
+        "ID": 11,
+        "Name": "Swift"
+    },
+    {
+        "ID": 12,
+        "Name": "Web Tasarım"
+    },
+    {
+        "ID": 13,
+        "Name": "SEO"
+    },
+    {
+        "ID": 14,
+        "Name": "SEM"
+    }
+]
