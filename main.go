@@ -4,14 +4,17 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"net/http"
+	"os"
 	"text/template"
 
 	model "./models"
 )
 
 func main() {
+	os.Setenv("port", ":9000") // environment oluşturuldu
+
 	http.HandleFunc("/", handler)
-	http.ListenAndServe(":9000", nil)
+	http.ListenAndServe(os.Getenv("port"), nil) // Getenv ile environment değeri alındı
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {
